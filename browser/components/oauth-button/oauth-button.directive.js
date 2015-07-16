@@ -7,5 +7,5 @@ app.directive('oauthButton', function () {
 		},
 		restrict: 'E',
 		templateUrl: '/browser/components/oauth-button/oauth-button.html'
-	}
+	};
 });
